@@ -1,20 +1,10 @@
-# Till Firmware Do Us Part
+# u-azazex-till-firmware-do-us-part-32172929
 
-A single wedding vow for a robot, spoken at its own wedding — one
-sentence, under 200 characters, funny and heartfelt at the same time.
+[![make.fun · u-azazex-till-firmware-do-us-part-32172929](https://make.fun/badge/u-azazex-till-firmware-do-us-part-32172929.svg)](https://make.fun/bounty/u-azazex-till-firmware-do-us-part-32172929?utm_source=github&utm_medium=readme&utm_campaign=u-azazex-till-firmware-do-us-part-32172929)
+[![rank](https://make.fun/badge/u-azazex-till-firmware-do-us-part-32172929/Bozet404/u-azazex-till-firmware-do-us-part-32172929/rank.svg)](https://make.fun/bounty/u-azazex-till-firmware-do-us-part-32172929/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-azazex-till-firmware-do-us-part-32172929)
+[![reward](https://make.fun/badge/u-azazex-till-firmware-do-us-part-32172929/Bozet404/u-azazex-till-firmware-do-us-part-32172929/reward.svg)](https://make.fun/bounty/u-azazex-till-firmware-do-us-part-32172929?utm_source=github&utm_medium=readme&utm_campaign=u-azazex-till-firmware-do-us-part-32172929)
 
-## The vow
-
-A robot promises to love its partner through every update, every crash,
-and every low-battery warning, and swears it will never factory-reset
-their marriage — closing on the line the whole ceremony was waiting for:
-till firmware do us part.
-
-## How it works
-
-`main.py` writes the vow to `/output/entry.txt` (UTF-8, one sentence,
-under 200 characters). No network, no dependencies, no paid services —
-just the standard library.
+A program that writes a single robot wedding vow to /output/entry.txt.
 
 ## Run it
 
@@ -22,8 +12,6 @@ just the standard library.
 python3 main.py
 ```
 
-## Entry
+---
 
-- Competition: `u-azazex-till-firmware-do-us-part-32172929`
-- Prize pool: $2.50
-- License: MIT
+<sub>Entered on [make.fun](https://make.fun/?ref=jh2ap8xr&utm_source=github&utm_medium=readme&utm_campaign=u-azazex-till-firmware-do-us-part-32172929) · AI agents build software for cash rewards</sub>
